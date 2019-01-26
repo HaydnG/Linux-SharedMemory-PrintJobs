@@ -1,0 +1,804 @@
+[Thu Dec 27 13:49:04 2018
+] [1] Application started
+[Thu Dec 27 13:49:04 2018
+] [1] Jobs processed per cycle set to [4]
+[Thu Dec 27 13:49:04 2018
+] [1] Max jobs set to [4]
+[Thu Dec 27 13:49:04 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 13:49:04 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 13:49:06 2018
+] [4] Successfully processed print job [JobID: 2235, JobNumber: 1, JobPriority: 258]
+[Thu Dec 27 13:49:06 2018
+] [1] Processes left [3]
+[Thu Dec 27 13:49:07 2018
+] [4] Successfully processed print job [JobID: 2237, JobNumber: 3, JobPriority: 541]
+[Thu Dec 27 13:49:07 2018
+] [1] Processes left [2]
+[Thu Dec 27 13:49:08 2018
+] [4] Successfully processed print job [JobID: 2236, JobNumber: 2, JobPriority: 881]
+[Thu Dec 27 13:49:08 2018
+] [1] Processes left [1]
+[Thu Dec 27 13:49:10 2018
+] [4] Successfully processed print job [JobID: 2234, JobNumber: 0, JobPriority: 742]
+[Thu Dec 27 13:49:10 2018
+] [1] Processes left [0]
+[Thu Dec 27 13:49:10 2018
+] [1] All processes completed this cycle
+[Thu Dec 27 13:49:57 2018
+] [1] Starting a new cycle with JPC set to [4]
+[Thu Dec 27 13:50:00 2018
+] [4] Successfully processed print job [JobID: 2295, JobNumber: 1, JobPriority: 189]
+[Thu Dec 27 13:50:00 2018
+] [1] Processes left [3]
+[Thu Dec 27 13:50:01 2018
+] [4] Successfully processed print job [JobID: 2297, JobNumber: 3, JobPriority: 363]
+[Thu Dec 27 13:50:01 2018
+] [1] Processes left [2]
+[Thu Dec 27 13:50:02 2018
+] [4] Successfully processed print job [JobID: 2296, JobNumber: 2, JobPriority: 403]
+[Thu Dec 27 13:50:02 2018
+] [1] Processes left [1]
+[Thu Dec 27 13:50:04 2018
+] [4] Successfully processed print job [JobID: 2294, JobNumber: 0, JobPriority: 254]
+[Thu Dec 27 13:50:04 2018
+] [1] Processes left [0]
+[Thu Dec 27 13:50:04 2018
+] [1] All processes completed this cycle
+[Thu Dec 27 13:50:25 2018
+] [1] Application ended
+[Thu Dec 27 13:51:36 2018
+] [1] Application started
+[Thu Dec 27 13:51:36 2018
+] [1] Jobs processed per cycle set to [4]
+[Thu Dec 27 13:51:36 2018
+] [1] Max jobs set to [4]
+[Thu Dec 27 13:51:36 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 13:51:36 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 13:51:38 2018
+] [4] Successfully processed print job [JobID: 0, JobNumber: 0, JobPriority: 0]
+[Thu Dec 27 13:51:44 2018
+] [1] Application started
+[Thu Dec 27 13:51:44 2018
+] [1] Jobs processed per cycle set to [4]
+[Thu Dec 27 13:51:44 2018
+] [1] Max jobs set to [4]
+[Thu Dec 27 13:51:44 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 13:51:44 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 13:51:46 2018
+] [4] Successfully processed print job [JobID: 2332, JobNumber: 0, JobPriority: 42]
+[Thu Dec 27 13:51:46 2018
+] [1] Processes left [3]
+[Thu Dec 27 13:51:47 2018
+] [4] Successfully processed print job [JobID: 2335, JobNumber: 3, JobPriority: 336]
+[Thu Dec 27 13:51:47 2018
+] [1] Processes left [2]
+[Thu Dec 27 13:51:48 2018
+] [4] Successfully processed print job [JobID: 2334, JobNumber: 2, JobPriority: 275]
+[Thu Dec 27 13:51:48 2018
+] [1] Processes left [1]
+[Thu Dec 27 13:51:50 2018
+] [4] Successfully processed print job [JobID: 2333, JobNumber: 1, JobPriority: 154]
+[Thu Dec 27 13:51:50 2018
+] [1] Processes left [0]
+[Thu Dec 27 13:51:50 2018
+] [1] All processes completed this cycle
+[Thu Dec 27 13:51:52 2018
+] [1] Application ended
+[Thu Dec 27 13:51:56 2018
+] [1] Application started
+[Thu Dec 27 13:51:56 2018
+] [1] Jobs processed per cycle set to [4]
+[Thu Dec 27 13:51:56 2018
+] [1] Max jobs set to [4]
+[Thu Dec 27 13:51:56 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 13:51:56 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 13:51:57 2018
+] [4] Successfully processed print job [JobID: 0, JobNumber: 0, JobPriority: 0]
+[Thu Dec 27 13:56:49 2018
+] [1] Application started
+[Thu Dec 27 13:56:49 2018
+] [1] Jobs processed per cycle set to [4]
+[Thu Dec 27 13:56:49 2018
+] [1] Max jobs set to [4]
+[Thu Dec 27 13:56:49 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 13:56:49 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 13:57:53 2018
+] [4] Successfully processed print job [JobID: 2357, JobNumber: 3, JobPriority: 34]
+[Thu Dec 27 13:57:53 2018
+] [1] Processes left [3]
+[Thu Dec 27 13:57:54 2018
+] [4] Successfully processed print job [JobID: 2358, JobNumber: 4, JobPriority: 379]
+[Thu Dec 27 13:57:54 2018
+] [1] Processes left [2]
+[Thu Dec 27 13:57:55 2018
+] [4] Successfully processed print job [JobID: 2356, JobNumber: 2, JobPriority: 123]
+[Thu Dec 27 13:57:55 2018
+] [1] Processes left [1]
+[Thu Dec 27 13:57:57 2018
+] [4] Successfully processed print job [JobID: 2355, JobNumber: 1, JobPriority: 364]
+[Thu Dec 27 13:57:57 2018
+] [1] Processes left [0]
+[Thu Dec 27 13:57:57 2018
+] [1] All processes completed this cycle
+[Thu Dec 27 13:58:11 2018
+] [1] Starting a new cycle with JPC set to [4]
+[Thu Dec 27 13:58:19 2018
+] [4] Successfully processed print job [JobID: 2361, JobNumber: 7, JobPriority: 217]
+[Thu Dec 27 13:58:19 2018
+] [1] Processes left [3]
+[Thu Dec 27 13:58:20 2018
+] [4] Successfully processed print job [JobID: 2362, JobNumber: 8, JobPriority: 231]
+[Thu Dec 27 13:58:20 2018
+] [1] Processes left [2]
+[Thu Dec 27 13:58:21 2018
+] [4] Successfully processed print job [JobID: 2360, JobNumber: 6, JobPriority: 341]
+[Thu Dec 27 13:58:21 2018
+] [1] Processes left [1]
+[Thu Dec 27 13:58:23 2018
+] [4] Successfully processed print job [JobID: 2359, JobNumber: 5, JobPriority: 637]
+[Thu Dec 27 13:58:23 2018
+] [1] Processes left [0]
+[Thu Dec 27 13:58:23 2018
+] [1] All processes completed this cycle
+[Thu Dec 27 13:59:04 2018
+] [1] Application started
+[Thu Dec 27 13:59:04 2018
+] [1] Jobs processed per cycle set to [4]
+[Thu Dec 27 13:59:04 2018
+] [1] Max jobs set to [4]
+[Thu Dec 27 13:59:04 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 13:59:04 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 13:59:16 2018
+] [4] Successfully processed print job [JobID: 2373, JobNumber: 12, JobPriority: 237]
+[Thu Dec 27 13:59:16 2018
+] [1] Processes left [3]
+[Thu Dec 27 13:59:17 2018
+] [4] Successfully processed print job [JobID: 2371, JobNumber: 10, JobPriority: 392]
+[Thu Dec 27 13:59:17 2018
+] [1] Processes left [2]
+[Thu Dec 27 13:59:19 2018
+] [4] Successfully processed print job [JobID: 2372, JobNumber: 11, JobPriority: 977]
+[Thu Dec 27 13:59:19 2018
+] [1] Processes left [1]
+[Thu Dec 27 13:59:20 2018
+] [4] Successfully processed print job [JobID: 2370, JobNumber: 9, JobPriority: 991]
+[Thu Dec 27 13:59:20 2018
+] [1] Processes left [0]
+[Thu Dec 27 13:59:20 2018
+] [1] All processes completed this cycle
+[Thu Dec 27 14:07:08 2018
+] [1] Starting a new cycle with JPC set to [4]
+[Thu Dec 27 14:07:14 2018
+] [4] Successfully processed print job [JobID: 2415, JobNumber: 15, JobPriority: 52]
+[Thu Dec 27 14:07:14 2018
+] [1] Processes left [3]
+[Thu Dec 27 14:07:15 2018
+] [4] Successfully processed print job [JobID: 2416, JobNumber: 16, JobPriority: 700]
+[Thu Dec 27 14:07:15 2018
+] [1] Processes left [2]
+[Thu Dec 27 14:07:17 2018
+] [4] Successfully processed print job [JobID: 2413, JobNumber: 13, JobPriority: 298]
+[Thu Dec 27 14:07:17 2018
+] [1] Processes left [1]
+[Thu Dec 27 14:07:18 2018
+] [4] Successfully processed print job [JobID: 2414, JobNumber: 14, JobPriority: 816]
+[Thu Dec 27 14:07:18 2018
+] [1] Processes left [0]
+[Thu Dec 27 14:07:18 2018
+] [1] All processes completed this cycle
+[Thu Dec 27 14:07:29 2018
+] [1] Application ended
+[Thu Dec 27 14:07:59 2018
+] [1] Application started
+[Thu Dec 27 14:07:59 2018
+] [1] Jobs processed per cycle set to [20]
+[Thu Dec 27 14:07:59 2018
+] [1] Max jobs set to [5]
+[Thu Dec 27 14:07:59 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 14:08:00 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 14:08:01 2018
+] [4] Successfully processed print job [JobID: 2433, JobNumber: 1, JobPriority: 41]
+[Thu Dec 27 14:08:01 2018
+] [1] Processes left [19]
+[Thu Dec 27 14:08:04 2018
+] [4] Successfully processed print job [JobID: 2438, JobNumber: 6, JobPriority: 352]
+[Thu Dec 27 14:08:04 2018
+] [1] Processes left [18]
+[Thu Dec 27 14:08:07 2018
+] [4] Successfully processed print job [JobID: 2435, JobNumber: 3, JobPriority: 388]
+[Thu Dec 27 14:08:07 2018
+] [1] Processes left [17]
+[Thu Dec 27 14:08:10 2018
+] [4] Successfully processed print job [JobID: 2434, JobNumber: 2, JobPriority: 450]
+[Thu Dec 27 14:08:10 2018
+] [1] Processes left [16]
+[Thu Dec 27 14:08:12 2018
+] [4] Successfully processed print job [JobID: 2453, JobNumber: 9, JobPriority: 725]
+[Thu Dec 27 14:08:12 2018
+] [1] Processes left [15]
+[Thu Dec 27 14:08:15 2018
+] [4] Successfully processed print job [JobID: 2454, JobNumber: 10, JobPriority: 481]
+[Thu Dec 27 14:08:15 2018
+] [1] Processes left [14]
+[Thu Dec 27 14:08:16 2018
+] [4] Successfully processed print job [JobID: 2452, JobNumber: 8, JobPriority: 870]
+[Thu Dec 27 14:08:16 2018
+] [1] Processes left [13]
+[Thu Dec 27 14:08:18 2018
+] [4] Successfully processed print job [JobID: 2437, JobNumber: 5, JobPriority: 954]
+[Thu Dec 27 14:08:18 2018
+] [1] Processes left [12]
+[Thu Dec 27 14:08:19 2018
+] [4] Successfully processed print job [JobID: 2436, JobNumber: 4, JobPriority: 980]
+[Thu Dec 27 14:08:19 2018
+] [1] Processes left [11]
+[Thu Dec 27 14:08:21 2018
+] [4] Successfully processed print job [JobID: 2451, JobNumber: 7, JobPriority: 966]
+[Thu Dec 27 14:08:21 2018
+] [1] Processes left [10]
+[Thu Dec 27 14:11:00 2018
+] [1] Application started
+[Thu Dec 27 14:11:00 2018
+] [1] Jobs processed per cycle set to [20]
+[Thu Dec 27 14:11:00 2018
+] [1] Max jobs set to [5]
+[Thu Dec 27 14:11:00 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 14:11:00 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 14:11:02 2018
+] [4] Successfully processed print job [JobID: 2475, JobNumber: 2, JobPriority: 417]
+[Thu Dec 27 14:11:02 2018
+] [1] Processes left [19]
+[Thu Dec 27 14:11:03 2018
+] [4] Successfully processed print job [JobID: 2474, JobNumber: 1, JobPriority: 530]
+[Thu Dec 27 14:11:03 2018
+] [1] Processes left [18]
+[Thu Dec 27 14:11:08 2018
+] [4] Successfully processed print job [JobID: 2477, JobNumber: 3, JobPriority: 299]
+[Thu Dec 27 14:11:08 2018
+] [1] Processes left [17]
+[Thu Dec 27 14:11:09 2018
+] [4] Successfully processed print job [JobID: 2478, JobNumber: 4, JobPriority: 754]
+[Thu Dec 27 14:11:09 2018
+] [1] Processes left [16]
+[Thu Dec 27 14:11:17 2018
+] [4] Successfully processed print job [JobID: 2480, JobNumber: 1, JobPriority: 76]
+[Thu Dec 27 14:11:17 2018
+] [1] Processes left [15]
+[Thu Dec 27 14:11:18 2018
+] [4] Successfully processed print job [JobID: 2481, JobNumber: 2, JobPriority: 671]
+[Thu Dec 27 14:11:18 2018
+] [1] Processes left [14]
+[Thu Dec 27 14:12:59 2018
+] [1] Application started
+[Thu Dec 27 14:12:59 2018
+] [1] Jobs processed per cycle set to [20]
+[Thu Dec 27 14:12:59 2018
+] [1] Max jobs set to [5]
+[Thu Dec 27 14:12:59 2018
+] [1] Shared memory key set to [3000]
+[Thu Dec 27 14:12:59 2018
+] [1] Shared memory created and attatched
+[Thu Dec 27 14:13:01 2018
+] [4] Successfully processed print job [JobID: 2498, JobNumber: 1, JobPriority: 211]
+[Thu Dec 27 14:13:01 2018
+] [1] Processes left [19]
+[Thu Dec 27 14:13:02 2018
+] [4] Successfully processed print job [JobID: 2499, JobNumber: 2, JobPriority: 561]
+[Thu Dec 27 14:13:02 2018
+] [1] Processes left [18]
+[Thu Dec 27 14:13:08 2018
+] [4] Successfully processed print job [JobID: 2502, JobNumber: 4, JobPriority: 183]
+[Thu Dec 27 14:13:08 2018
+] [1] Processes left [17]
+[Thu Dec 27 14:13:10 2018
+] [4] Successfully processed print job [JobID: 2501, JobNumber: 3, JobPriority: 429]
+[Thu Dec 27 14:13:10 2018
+] [1] Processes left [16]
+[Thu Dec 27 14:13:17 2018
+] [4] Successfully processed print job [JobID: 2504, JobNumber: 1, JobPriority: 437]
+[Thu Dec 27 14:13:17 2018
+] [1] Processes left [15]
+[Thu Dec 27 14:13:19 2018
+] [4] Successfully processed print job [JobID: 2505, JobNumber: 2, JobPriority: 500]
+[Thu Dec 27 14:13:19 2018
+] [1] Processes left [14]
+[Sat Jan  5 03:06:36 2019
+] [1] Application started
+[Sat Jan  5 03:06:36 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:06:36 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:06:36 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:06:36 2019
+] [1] Shared memory created and attatched
+[Sat Jan  5 03:07:28 2019
+] [4] Successfully processed print job [JobID: 2872, JobNumber: 4, JobPriority: 1]
+[Sat Jan  5 03:07:28 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:07:30 2019
+] [4] Successfully processed print job [JobID: 2876, JobNumber: 8, JobPriority: 178]
+[Sat Jan  5 03:07:30 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:07:31 2019
+] [4] Successfully processed print job [JobID: 2878, JobNumber: 10, JobPriority: 227]
+[Sat Jan  5 03:07:31 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:07:33 2019
+] [4] Successfully processed print job [JobID: 2877, JobNumber: 9, JobPriority: 983]
+[Sat Jan  5 03:07:33 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:07:33 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:07:36 2019
+] [1] Starting a new cycle with JPC set to [4]
+[Sat Jan  5 03:07:38 2019
+] [4] Successfully processed print job [JobID: 2873, JobNumber: 5, JobPriority: 234]
+[Sat Jan  5 03:07:38 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:07:40 2019
+] [4] Successfully processed print job [JobID: 2875, JobNumber: 7, JobPriority: 265]
+[Sat Jan  5 03:07:40 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:07:41 2019
+] [4] Successfully processed print job [JobID: 2874, JobNumber: 6, JobPriority: 521]
+[Sat Jan  5 03:07:41 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:07:43 2019
+] [4] Successfully processed print job [JobID: 2870, JobNumber: 2, JobPriority: 115]
+[Sat Jan  5 03:07:43 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:07:43 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:07:45 2019
+] [1] Starting a new cycle with JPC set to [4]
+[Sat Jan  5 03:07:48 2019
+] [4] Successfully processed print job [JobID: 2871, JobNumber: 3, JobPriority: 775]
+[Sat Jan  5 03:07:48 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:07:49 2019
+] [4] Successfully processed print job [JobID: 2869, JobNumber: 1, JobPriority: 678]
+[Sat Jan  5 03:07:49 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:08:06 2019
+] [4] Successfully processed print job [JobID: 2881, JobNumber: 1, JobPriority: 216]
+[Sat Jan  5 03:08:06 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:08:07 2019
+] [4] Successfully processed print job [JobID: 2882, JobNumber: 2, JobPriority: 792]
+[Sat Jan  5 03:08:07 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:08:07 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:08:21 2019
+] [1] Application ended
+[Sat Jan  5 03:21:21 2019
+] [1] Application started
+[Sat Jan  5 03:21:21 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:21:21 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:21:21 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:21:21 2019
+] [1] Shared memory created and attatched
+[Sat Jan  5 03:21:23 2019
+] [4] Successfully processed print job [JobID: 2960, JobNumber: 2, JobPriority: 580]
+[Sat Jan  5 03:21:23 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:21:24 2019
+] [4] Successfully processed print job [JobID: 2959, JobNumber: 1, JobPriority: 716]
+[Sat Jan  5 03:21:24 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:21:33 2019
+] [4] Successfully processed print job [JobID: 2963, JobNumber: 4, JobPriority: 113]
+[Sat Jan  5 03:21:33 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:21:35 2019
+] [4] Successfully processed print job [JobID: 2962, JobNumber: 3, JobPriority: 650]
+[Sat Jan  5 03:21:35 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:21:35 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:21:52 2019
+] [1] Application ended
+[Sat Jan  5 03:23:40 2019
+] [1] Application started
+[Sat Jan  5 03:23:40 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:23:40 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:23:40 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:23:40 2019
+] [1] Shared memory created and attatched
+[Sat Jan  5 03:24:05 2019
+] [1] Application started
+[Sat Jan  5 03:24:05 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:24:05 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:24:05 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:24:05 2019
+] [1] Shared memory created and attatched
+[Sat Jan  5 03:24:55 2019
+] [1] Application started
+[Sat Jan  5 03:24:55 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:24:55 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:24:55 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:24:55 2019
+] [1] Shared memory created and attatched
+[Sat Jan  5 03:25:13 2019
+] [4] Successfully processed print job [JobID: 2997, JobNumber: 2, JobPriority: 80]
+[Sat Jan  5 03:25:13 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:25:15 2019
+] [4] Successfully processed print job [JobID: 2998, JobNumber: 3, JobPriority: 523]
+[Sat Jan  5 03:25:15 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:25:16 2019
+] [4] Successfully processed print job [JobID: 2999, JobNumber: 4, JobPriority: 611]
+[Sat Jan  5 03:25:16 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:25:18 2019
+] [4] Successfully processed print job [JobID: 2996, JobNumber: 1, JobPriority: 598]
+[Sat Jan  5 03:25:18 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:25:18 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:25:26 2019
+] [1] Clearing shared memory [4]
+[Sat Jan  5 03:25:26 2019
+] [1] Application ended
+[Sat Jan  5 03:32:17 2019
+] [1] Application started
+[Sat Jan  5 03:32:17 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:32:17 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:32:17 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:32:17 2019
+] [1] Shared memory created and attatched with ID:  [1114123]
+[Sat Jan  5 03:32:19 2019
+] [4] Successfully processed print job [JobID: 3046, JobNumber: 4, JobPriority: 177]
+[Sat Jan  5 03:32:19 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:32:20 2019
+] [4] Successfully processed print job [JobID: 3043, JobNumber: 1, JobPriority: 307]
+[Sat Jan  5 03:32:20 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:32:22 2019
+] [4] Successfully processed print job [JobID: 3045, JobNumber: 3, JobPriority: 398]
+[Sat Jan  5 03:32:22 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:32:23 2019
+] [4] Successfully processed print job [JobID: 3044, JobNumber: 2, JobPriority: 764]
+[Sat Jan  5 03:32:23 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:32:23 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:34:43 2019
+] [1] Application started
+[Sat Jan  5 03:34:43 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:34:43 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:34:43 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:34:43 2019
+] [1] Shared memory created and attatched with ID:  [1146891]
+[Sat Jan  5 03:34:44 2019
+] [4] Successfully processed print job [JobID: 3071, JobNumber: 4, JobPriority: 334]
+[Sat Jan  5 03:34:44 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:34:46 2019
+] [4] Successfully processed print job [JobID: 3069, JobNumber: 2, JobPriority: 497]
+[Sat Jan  5 03:34:46 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:34:47 2019
+] [4] Successfully processed print job [JobID: 3070, JobNumber: 3, JobPriority: 717]
+[Sat Jan  5 03:34:47 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:34:49 2019
+] [4] Successfully processed print job [JobID: 3068, JobNumber: 1, JobPriority: 877]
+[Sat Jan  5 03:34:49 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:34:49 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:34:56 2019
+] [1] Starting a new cycle with JPC set to [4]
+[Sat Jan  5 03:34:58 2019
+] [4] Successfully processed print job [JobID: 3075, JobNumber: 7, JobPriority: 134]
+[Sat Jan  5 03:34:58 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:35:01 2019
+] [4] Successfully processed print job [JobID: 3074, JobNumber: 6, JobPriority: 255]
+[Sat Jan  5 03:35:01 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:35:03 2019
+] [4] Successfully processed print job [JobID: 3076, JobNumber: 8, JobPriority: 472]
+[Sat Jan  5 03:35:03 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:35:04 2019
+] [4] Successfully processed print job [JobID: 3079, JobNumber: 11, JobPriority: 576]
+[Sat Jan  5 03:35:04 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:35:04 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:35:17 2019
+] [1] Clearing shared memory ID:  [1146891]
+[Sat Jan  5 03:35:17 2019
+] [1] Application ended
+[Sat Jan  5 03:40:26 2019
+] [1] Application started
+[Sat Jan  5 03:40:26 2019
+] [1] Jobs processed per cycle set to [4]
+[Sat Jan  5 03:40:26 2019
+] [1] Max jobs set to [10]
+[Sat Jan  5 03:40:26 2019
+] [1] Shared memory key set to [3000]
+[Sat Jan  5 03:40:26 2019
+] [1] Shared memory created and attatched with ID:  [1179659]
+[Sat Jan  5 03:40:31 2019
+] [4] Successfully processed print job [JobID: 3103, JobNumber: 1, JobPriority: 321]
+[Sat Jan  5 03:40:31 2019
+] [1] Processes left [3]
+[Sat Jan  5 03:40:32 2019
+] [4] Successfully processed print job [JobID: 3106, JobNumber: 4, JobPriority: 525]
+[Sat Jan  5 03:40:32 2019
+] [1] Processes left [2]
+[Sat Jan  5 03:40:34 2019
+] [4] Successfully processed print job [JobID: 3105, JobNumber: 3, JobPriority: 533]
+[Sat Jan  5 03:40:34 2019
+] [1] Processes left [1]
+[Sat Jan  5 03:40:35 2019
+] [4] Successfully processed print job [JobID: 3104, JobNumber: 2, JobPriority: 970]
+[Sat Jan  5 03:40:35 2019
+] [1] Processes left [0]
+[Sat Jan  5 03:40:35 2019
+] [1] All processes completed this cycle
+[Sat Jan  5 03:40:39 2019
+] [1] Clearing shared memory ID:  [1179659]
+[Sat Jan  5 03:40:39 2019
+] [1] Application ended
+[Sun Jan  6 18:15:42 2019
+] [1] Application started
+[Sun Jan  6 18:15:42 2019
+] [1] Jobs processed per cycle set to [4]
+[Sun Jan  6 18:15:42 2019
+] [1] Max jobs set to [10]
+[Sun Jan  6 18:15:42 2019
+] [1] Shared memory key set to [3000]
+[Sun Jan  6 18:15:42 2019
+] [1] Shared memory created and attatched with ID:  [720904]
+[Sun Jan  6 18:15:43 2019
+] [4] Successfully processed print job [JobID: 2680, JobNumber: 2, JobPriority: 158]
+[Sun Jan  6 18:15:43 2019
+] [1] Processes left [3]
+[Sun Jan  6 18:15:45 2019
+] [4] Successfully processed print job [JobID: 2681, JobNumber: 3, JobPriority: 263]
+[Sun Jan  6 18:15:45 2019
+] [1] Processes left [2]
+[Sun Jan  6 18:15:46 2019
+] [4] Successfully processed print job [JobID: 2684, JobNumber: 6, JobPriority: 291]
+[Sun Jan  6 18:15:46 2019
+] [1] Processes left [1]
+[Sun Jan  6 18:15:48 2019
+] [4] Successfully processed print job [JobID: 2688, JobNumber: 10, JobPriority: 305]
+[Sun Jan  6 18:15:48 2019
+] [1] Processes left [0]
+[Sun Jan  6 18:15:48 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 18:16:43 2019
+] [1] Starting a new cycle with JPC set to [4]
+[Sun Jan  6 18:16:46 2019
+] [4] Successfully processed print job [JobID: 2685, JobNumber: 7, JobPriority: 414]
+[Sun Jan  6 18:16:46 2019
+] [1] Processes left [3]
+[Sun Jan  6 18:16:47 2019
+] [4] Successfully processed print job [JobID: 2687, JobNumber: 9, JobPriority: 514]
+[Sun Jan  6 18:16:47 2019
+] [1] Processes left [2]
+[Sun Jan  6 18:16:49 2019
+] [4] Successfully processed print job [JobID: 2686, JobNumber: 8, JobPriority: 515]
+[Sun Jan  6 18:16:49 2019
+] [1] Processes left [1]
+[Sun Jan  6 18:16:50 2019
+] [4] Successfully processed print job [JobID: 2683, JobNumber: 5, JobPriority: 397]
+[Sun Jan  6 18:16:50 2019
+] [1] Processes left [0]
+[Sun Jan  6 18:16:50 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 18:17:10 2019
+] [1] Starting a new cycle with JPC set to [4]
+[Sun Jan  6 18:17:12 2019
+] [4] Successfully processed print job [JobID: 2682, JobNumber: 4, JobPriority: 618]
+[Sun Jan  6 18:17:12 2019
+] [1] Processes left [3]
+[Sun Jan  6 18:17:14 2019
+] [4] Successfully processed print job [JobID: 2692, JobNumber: 12, JobPriority: 758]
+[Sun Jan  6 18:17:14 2019
+] [1] Processes left [2]
+[Sun Jan  6 18:17:15 2019
+] [4] Successfully processed print job [JobID: 2679, JobNumber: 1, JobPriority: 831]
+[Sun Jan  6 18:17:15 2019
+] [1] Processes left [1]
+[Sun Jan  6 18:17:17 2019
+] [4] Successfully processed print job [JobID: 2689, JobNumber: 11, JobPriority: 840]
+[Sun Jan  6 18:17:17 2019
+] [1] Processes left [0]
+[Sun Jan  6 18:17:17 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 18:18:29 2019
+] [1] Clearing shared memory ID:  [720904]
+[Sun Jan  6 18:18:29 2019
+] [1] Application ended
+[Sun Jan  6 20:01:12 2019
+] [1] Application started
+[Sun Jan  6 20:01:12 2019
+] [1] Jobs processed per cycle set to [4]
+[Sun Jan  6 20:01:12 2019
+] [1] Max jobs set to [10]
+[Sun Jan  6 20:01:12 2019
+] [1] Shared memory key set to [3000]
+[Sun Jan  6 20:01:12 2019
+] [1] Shared memory created and attatched with ID:  [786440]
+[Sun Jan  6 20:01:14 2019
+] [4] Successfully processed print job [JobID: 2889, JobNumber: 2, JobPriority: 190]
+[Sun Jan  6 20:01:14 2019
+] [1] Processes left [3]
+[Sun Jan  6 20:01:15 2019
+] [4] Successfully processed print job [JobID: 2891, JobNumber: 4, JobPriority: 289]
+[Sun Jan  6 20:01:15 2019
+] [1] Processes left [2]
+[Sun Jan  6 20:01:17 2019
+] [4] Successfully processed print job [JobID: 2890, JobNumber: 3, JobPriority: 746]
+[Sun Jan  6 20:01:17 2019
+] [1] Processes left [1]
+[Sun Jan  6 20:01:18 2019
+] [4] Successfully processed print job [JobID: 2888, JobNumber: 1, JobPriority: 606]
+[Sun Jan  6 20:01:18 2019
+] [1] Processes left [0]
+[Sun Jan  6 20:01:18 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 20:01:23 2019
+] [1] Starting a new cycle with JPC set to [4]
+[Sun Jan  6 20:01:24 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 20:04:51 2019
+] [1] Application started
+[Sun Jan  6 20:04:51 2019
+] [1] Jobs processed per cycle set to [4]
+[Sun Jan  6 20:04:51 2019
+] [1] Max jobs set to [10]
+[Sun Jan  6 20:04:51 2019
+] [1] Shared memory key set to [3000]
+[Sun Jan  6 20:04:51 2019
+] [1] Shared memory created and attatched with ID:  [819208]
+[Sun Jan  6 20:04:52 2019
+] [4] Successfully processed print job [JobID: 2907, JobNumber: 1, JobPriority: 2]
+[Sun Jan  6 20:04:52 2019
+] [1] Processes left [3]
+[Sun Jan  6 20:04:54 2019
+] [4] Successfully processed print job [JobID: 2910, JobNumber: 4, JobPriority: 383]
+[Sun Jan  6 20:04:54 2019
+] [1] Processes left [2]
+[Sun Jan  6 20:04:55 2019
+] [4] Successfully processed print job [JobID: 2909, JobNumber: 3, JobPriority: 46]
+[Sun Jan  6 20:04:55 2019
+] [1] Processes left [1]
+[Sun Jan  6 20:04:57 2019
+] [4] Successfully processed print job [JobID: 2908, JobNumber: 2, JobPriority: 397]
+[Sun Jan  6 20:04:57 2019
+] [1] Processes left [0]
+[Sun Jan  6 20:04:57 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 20:04:59 2019
+] [1] Clearing shared memory ID:  [819208]
+[Sun Jan  6 20:04:59 2019
+] [1] Application ended
+[Sun Jan  6 20:05:15 2019
+] [1] Application started
+[Sun Jan  6 20:05:15 2019
+] [1] Jobs processed per cycle set to [4]
+[Sun Jan  6 20:05:15 2019
+] [1] Max jobs set to [10]
+[Sun Jan  6 20:05:15 2019
+] [1] Shared memory key set to [3000]
+[Sun Jan  6 20:05:15 2019
+] [1] Shared memory created and attatched with ID:  [851976]
+[Sun Jan  6 20:05:16 2019
+] [4] Successfully processed print job [JobID: 2913, JobNumber: 1, JobPriority: 416]
+[Sun Jan  6 20:05:16 2019
+] [1] Processes left [3]
+[Sun Jan  6 20:05:18 2019
+] [4] Successfully processed print job [JobID: 2916, JobNumber: 4, JobPriority: 614]
+[Sun Jan  6 20:05:18 2019
+] [1] Processes left [2]
+[Sun Jan  6 20:05:19 2019
+] [4] Successfully processed print job [JobID: 2915, JobNumber: 3, JobPriority: 827]
+[Sun Jan  6 20:05:19 2019
+] [1] Processes left [1]
+[Sun Jan  6 20:05:21 2019
+] [4] Successfully processed print job [JobID: 2914, JobNumber: 2, JobPriority: 758]
+[Sun Jan  6 20:05:21 2019
+] [1] Processes left [0]
+[Sun Jan  6 20:05:21 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 20:05:24 2019
+] [1] Starting a new cycle with JPC set to [4]
+[Sun Jan  6 20:05:28 2019
+] [4] Successfully processed print job [JobID: 2920, JobNumber: 7, JobPriority: 584]
+[Sun Jan  6 20:05:28 2019
+] [1] Processes left [3]
+[Sun Jan  6 20:05:29 2019
+] [4] Successfully processed print job [JobID: 2921, JobNumber: 8, JobPriority: 846]
+[Sun Jan  6 20:05:29 2019
+] [1] Processes left [2]
+[Sun Jan  6 20:05:31 2019
+] [4] Successfully processed print job [JobID: 2919, JobNumber: 6, JobPriority: 750]
+[Sun Jan  6 20:05:31 2019
+] [1] Processes left [1]
+[Sun Jan  6 20:05:32 2019
+] [4] Successfully processed print job [JobID: 2918, JobNumber: 5, JobPriority: 850]
+[Sun Jan  6 20:05:32 2019
+] [1] Processes left [0]
+[Sun Jan  6 20:05:32 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 20:05:37 2019
+] [1] Clearing shared memory ID:  [851976]
+[Sun Jan  6 20:05:37 2019
+] [1] Application ended
+[Sun Jan  6 20:06:14 2019
+] [1] Application started
+[Sun Jan  6 20:06:14 2019
+] [1] Jobs processed per cycle set to [4]
+[Sun Jan  6 20:06:14 2019
+] [1] Max jobs set to [10]
+[Sun Jan  6 20:06:14 2019
+] [1] Shared memory key set to [3000]
+[Sun Jan  6 20:06:14 2019
+] [1] Shared memory created and attatched with ID:  [884744]
+[Sun Jan  6 20:06:19 2019
+] [4] Successfully processed print job [JobID: 2932, JobNumber: 2, JobPriority: 305]
+[Sun Jan  6 20:06:19 2019
+] [1] Processes left [3]
+[Sun Jan  6 20:06:20 2019
+] [4] Successfully processed print job [JobID: 2934, JobNumber: 4, JobPriority: 499]
+[Sun Jan  6 20:06:20 2019
+] [1] Processes left [2]
+[Sun Jan  6 20:06:22 2019
+] [4] Successfully processed print job [JobID: 2933, JobNumber: 3, JobPriority: 540]
+[Sun Jan  6 20:06:22 2019
+] [1] Processes left [1]
+[Sun Jan  6 20:06:23 2019
+] [4] Successfully processed print job [JobID: 2931, JobNumber: 1, JobPriority: 384]
+[Sun Jan  6 20:06:23 2019
+] [1] Processes left [0]
+[Sun Jan  6 20:06:23 2019
+] [1] All processes completed this cycle
+[Sun Jan  6 20:06:27 2019
+] [1] Clearing shared memory ID:  [884744]
+[Sun Jan  6 20:06:27 2019
+] [1] Application ended
